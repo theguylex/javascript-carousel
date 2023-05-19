@@ -1,0 +1,1 @@
+const buttons = document.querySelectorAll("[data-carousel-button]")
